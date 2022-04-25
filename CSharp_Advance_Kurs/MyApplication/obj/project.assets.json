@@ -1,0 +1,178 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "GoodApp.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "GoodApp.Entities.Interfaces": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/GoodApp.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GoodApp.Entities.dll": {}
+        }
+      },
+      "GoodApp.Entities.Interfaces/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/GoodApp.Entities.Interfaces.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GoodApp.Entities.Interfaces.dll": {}
+        }
+      },
+      "GoodApp.MockEntities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "GoodApp.Entities.Interfaces": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/GoodApp.MockEntities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GoodApp.MockEntities.dll": {}
+        }
+      },
+      "GoodApp.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "GoodApp.Services.Interfaces": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/GoodApp.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GoodApp.Services.dll": {}
+        }
+      },
+      "GoodApp.Services.Interfaces/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "GoodApp.Entities.Interfaces": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/GoodApp.Services.Interfaces.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GoodApp.Services.Interfaces.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GoodApp.Entities/1.0.0": {
+      "type": "project",
+      "path": "../GoodApp.Entities/GoodApp.Entities.csproj",
+      "msbuildProject": "../GoodApp.Entities/GoodApp.Entities.csproj"
+    },
+    "GoodApp.Entities.Interfaces/1.0.0": {
+      "type": "project",
+      "path": "../GoodApp.Entities.Interfaces/GoodApp.Entities.Interfaces.csproj",
+      "msbuildProject": "../GoodApp.Entities.Interfaces/GoodApp.Entities.Interfaces.csproj"
+    },
+    "GoodApp.MockEntities/1.0.0": {
+      "type": "project",
+      "path": "../GoodApp.MockEntities/GoodApp.MockEntities.csproj",
+      "msbuildProject": "../GoodApp.MockEntities/GoodApp.MockEntities.csproj"
+    },
+    "GoodApp.Services/1.0.0": {
+      "type": "project",
+      "path": "../GoodApp.Services/GoodApp.Services.csproj",
+      "msbuildProject": "../GoodApp.Services/GoodApp.Services.csproj"
+    },
+    "GoodApp.Services.Interfaces/1.0.0": {
+      "type": "project",
+      "path": "../GoodApp.Services.Interfaces/GoodApp.Services.Interfaces.csproj",
+      "msbuildProject": "../GoodApp.Services.Interfaces/GoodApp.Services.Interfaces.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "GoodApp.Entities >= 1.0.0",
+      "GoodApp.Entities.Interfaces >= 1.0.0",
+      "GoodApp.MockEntities >= 1.0.0",
+      "GoodApp.Services >= 1.0.0",
+      "GoodApp.Services.Interfaces >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\kw4\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Aktueller Kurs\\CSharp_Fortgeschritten_KW17_ppedv\\CSharp_Advance_Kurs\\MyApplication\\MyApplication.csproj",
+      "projectName": "MyApplication",
+      "projectPath": "C:\\Aktueller Kurs\\CSharp_Fortgeschritten_KW17_ppedv\\CSharp_Advance_Kurs\\MyApplication\\MyApplication.csproj",
+      "packagesPath": "C:\\Users\\kw4\\.nuget\\packages\\",
+      "outputPath": "C:\\Aktueller Kurs\\CSharp_Fortgeschritten_KW17_ppedv\\CSharp_Advance_Kurs\\MyApplication\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\kw4\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Aktueller Kurs\\CSharp_Fortgeschritten_KW17_ppedv\\CSharp_Advance_Kurs\\GoodApp.Entities.Interfaces\\GoodApp.Entities.Interfaces.csproj": {
+              "projectPath": "C:\\Aktueller Kurs\\CSharp_Fortgeschritten_KW17_ppedv\\CSharp_Advance_Kurs\\GoodApp.Entities.Interfaces\\GoodApp.Entities.Interfaces.csproj"
+            },
+            "C:\\Aktueller Kurs\\CSharp_Fortgeschritten_KW17_ppedv\\CSharp_Advance_Kurs\\GoodApp.Entities\\GoodApp.Entities.csproj": {
+              "projectPath": "C:\\Aktueller Kurs\\CSharp_Fortgeschritten_KW17_ppedv\\CSharp_Advance_Kurs\\GoodApp.Entities\\GoodApp.Entities.csproj"
+            },
+            "C:\\Aktueller Kurs\\CSharp_Fortgeschritten_KW17_ppedv\\CSharp_Advance_Kurs\\GoodApp.MockEntities\\GoodApp.MockEntities.csproj": {
+              "projectPath": "C:\\Aktueller Kurs\\CSharp_Fortgeschritten_KW17_ppedv\\CSharp_Advance_Kurs\\GoodApp.MockEntities\\GoodApp.MockEntities.csproj"
+            },
+            "C:\\Aktueller Kurs\\CSharp_Fortgeschritten_KW17_ppedv\\CSharp_Advance_Kurs\\GoodApp.Services.Interfaces\\GoodApp.Services.Interfaces.csproj": {
+              "projectPath": "C:\\Aktueller Kurs\\CSharp_Fortgeschritten_KW17_ppedv\\CSharp_Advance_Kurs\\GoodApp.Services.Interfaces\\GoodApp.Services.Interfaces.csproj"
+            },
+            "C:\\Aktueller Kurs\\CSharp_Fortgeschritten_KW17_ppedv\\CSharp_Advance_Kurs\\GoodApp.Services\\GoodApp.Services.csproj": {
+              "projectPath": "C:\\Aktueller Kurs\\CSharp_Fortgeschritten_KW17_ppedv\\CSharp_Advance_Kurs\\GoodApp.Services\\GoodApp.Services.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

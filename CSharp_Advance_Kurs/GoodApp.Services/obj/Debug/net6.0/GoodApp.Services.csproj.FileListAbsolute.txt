@@ -1,0 +1,17 @@
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\GoodApp.Services\bin\Debug\net6.0\GoodApp.Services.deps.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\GoodApp.Services\bin\Debug\net6.0\GoodApp.Services.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\GoodApp.Services\bin\Debug\net6.0\GoodApp.Services.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\GoodApp.Services\bin\Debug\net6.0\GoodApp.Entities.Interfaces.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\GoodApp.Services\bin\Debug\net6.0\GoodApp.Services.Interfaces.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\GoodApp.Services\bin\Debug\net6.0\GoodApp.Services.Interfaces.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\GoodApp.Services\bin\Debug\net6.0\GoodApp.Entities.Interfaces.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\GoodApp.Services\obj\Debug\net6.0\GoodApp.Services.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\GoodApp.Services\obj\Debug\net6.0\GoodApp.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\GoodApp.Services\obj\Debug\net6.0\GoodApp.Services.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\GoodApp.Services\obj\Debug\net6.0\GoodApp.Services.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\GoodApp.Services\obj\Debug\net6.0\GoodApp.Services.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\GoodApp.Services\obj\Debug\net6.0\GoodApp.Services.csproj.CopyComplete
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\GoodApp.Services\obj\Debug\net6.0\GoodApp.Services.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\GoodApp.Services\obj\Debug\net6.0\refint\GoodApp.Services.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\GoodApp.Services\obj\Debug\net6.0\GoodApp.Services.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\GoodApp.Services\obj\Debug\net6.0\ref\GoodApp.Services.dll

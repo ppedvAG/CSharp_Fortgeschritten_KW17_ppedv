@@ -1,0 +1,92 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MyApplication/1.0.0": {
+        "dependencies": {
+          "GoodApp.Entities": "1.0.0",
+          "GoodApp.Entities.Interfaces": "1.0.0",
+          "GoodApp.MockEntities": "1.0.0",
+          "GoodApp.Services": "1.0.0",
+          "GoodApp.Services.Interfaces": "1.0.0"
+        },
+        "runtime": {
+          "MyApplication.dll": {}
+        }
+      },
+      "GoodApp.Entities/1.0.0": {
+        "dependencies": {
+          "GoodApp.Entities.Interfaces": "1.0.0"
+        },
+        "runtime": {
+          "GoodApp.Entities.dll": {}
+        }
+      },
+      "GoodApp.Entities.Interfaces/1.0.0": {
+        "runtime": {
+          "GoodApp.Entities.Interfaces.dll": {}
+        }
+      },
+      "GoodApp.MockEntities/1.0.0": {
+        "dependencies": {
+          "GoodApp.Entities.Interfaces": "1.0.0"
+        },
+        "runtime": {
+          "GoodApp.MockEntities.dll": {}
+        }
+      },
+      "GoodApp.Services/1.0.0": {
+        "dependencies": {
+          "GoodApp.Services.Interfaces": "1.0.0"
+        },
+        "runtime": {
+          "GoodApp.Services.dll": {}
+        }
+      },
+      "GoodApp.Services.Interfaces/1.0.0": {
+        "dependencies": {
+          "GoodApp.Entities.Interfaces": "1.0.0"
+        },
+        "runtime": {
+          "GoodApp.Services.Interfaces.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyApplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GoodApp.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GoodApp.Entities.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GoodApp.MockEntities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GoodApp.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GoodApp.Services.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

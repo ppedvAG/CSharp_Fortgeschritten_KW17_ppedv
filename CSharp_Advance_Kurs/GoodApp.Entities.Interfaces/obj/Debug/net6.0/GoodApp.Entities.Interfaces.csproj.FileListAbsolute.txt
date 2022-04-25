@@ -1,0 +1,12 @@
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\GoodApp.Entities.Interfaces\bin\Debug\net6.0\GoodApp.Entities.Interfaces.deps.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\GoodApp.Entities.Interfaces\bin\Debug\net6.0\GoodApp.Entities.Interfaces.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\GoodApp.Entities.Interfaces\bin\Debug\net6.0\GoodApp.Entities.Interfaces.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\GoodApp.Entities.Interfaces\obj\Debug\net6.0\GoodApp.Entities.Interfaces.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\GoodApp.Entities.Interfaces\obj\Debug\net6.0\GoodApp.Entities.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\GoodApp.Entities.Interfaces\obj\Debug\net6.0\GoodApp.Entities.Interfaces.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\GoodApp.Entities.Interfaces\obj\Debug\net6.0\GoodApp.Entities.Interfaces.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\GoodApp.Entities.Interfaces\obj\Debug\net6.0\GoodApp.Entities.Interfaces.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\GoodApp.Entities.Interfaces\obj\Debug\net6.0\GoodApp.Entities.Interfaces.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\GoodApp.Entities.Interfaces\obj\Debug\net6.0\refint\GoodApp.Entities.Interfaces.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\GoodApp.Entities.Interfaces\obj\Debug\net6.0\GoodApp.Entities.Interfaces.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\GoodApp.Entities.Interfaces\obj\Debug\net6.0\ref\GoodApp.Entities.Interfaces.dll
