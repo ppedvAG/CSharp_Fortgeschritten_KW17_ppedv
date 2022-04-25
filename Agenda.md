@@ -7,18 +7,26 @@ Themen
 Montag 
 
 - [ ] Solid 
+    - [ ] 2 Labs
 - [ ] Delegates / Actions / Func / Events / EventHandler
+    - [ ] Lab
 - [ ] Benchmark StringBuilder vs +-Operator (bei strings)
 
 
 Dienstag
+
+- [ ] Wiederholung Tag 1 (mit Lab)
 - [ ] Threading
+    - [ ] LAB
 - [ ] TPL
+    - [ ] LAB
 - [ ] async / await
+
 - [ ] Genrics
 
 Mittwoch:
 
+- [ ] Wiederholung Tag 2
 - [ ] C# 7.0 -> C# 10.0 Sprach Features
 - [ ] Reflections 
  - [ ] Plugin Pattern (Optional, CodeReview)
