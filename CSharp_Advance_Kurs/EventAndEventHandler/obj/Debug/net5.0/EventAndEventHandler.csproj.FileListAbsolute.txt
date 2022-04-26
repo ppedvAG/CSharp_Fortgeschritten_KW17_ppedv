@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\EventAndEventHandler\bin\Debug\net5.0\EventAndEventHandler.exe
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\EventAndEventHandler\bin\Debug\net5.0\EventAndEventHandler.deps.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\EventAndEventHandler\bin\Debug\net5.0\EventAndEventHandler.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\EventAndEventHandler\bin\Debug\net5.0\EventAndEventHandler.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\EventAndEventHandler\bin\Debug\net5.0\EventAndEventHandler.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\EventAndEventHandler\bin\Debug\net5.0\EventAndEventHandler.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\EventAndEventHandler\obj\Debug\net5.0\EventAndEventHandler.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\EventAndEventHandler\obj\Debug\net5.0\EventAndEventHandler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\EventAndEventHandler\obj\Debug\net5.0\EventAndEventHandler.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\EventAndEventHandler\obj\Debug\net5.0\EventAndEventHandler.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\EventAndEventHandler\obj\Debug\net5.0\EventAndEventHandler.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\EventAndEventHandler\obj\Debug\net5.0\EventAndEventHandler.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\EventAndEventHandler\obj\Debug\net5.0\refint\EventAndEventHandler.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\EventAndEventHandler\obj\Debug\net5.0\EventAndEventHandler.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\EventAndEventHandler\obj\Debug\net5.0\EventAndEventHandler.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\EventAndEventHandler\obj\Debug\net5.0\ref\EventAndEventHandler.dll

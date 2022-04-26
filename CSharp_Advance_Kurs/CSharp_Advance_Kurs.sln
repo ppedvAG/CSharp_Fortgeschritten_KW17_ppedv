@@ -5,13 +5,13 @@ VisualStudioVersion = 17.1.32407.343
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SOLID", "SOLID", "{ACEB0F49-A4BE-4126-A534-EBBE762DF683}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Single_Responsibility_Principe", "Single_Responsibility_Principe\Single_Responsibility_Principe.csproj", "{CB20DFBF-1142-453D-8607-262C91FBA288}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Single_Responsibility_Principe", "Single_Responsibility_Principe\Single_Responsibility_Principe.csproj", "{CB20DFBF-1142-453D-8607-262C91FBA288}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenClose_Principe", "OpenClose_Principe\OpenClose_Principe.csproj", "{CBB7F6C6-B4C6-4F34-BD2B-AE399B5C7252}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenClose_Principe", "OpenClose_Principe\OpenClose_Principe.csproj", "{CBB7F6C6-B4C6-4F34-BD2B-AE399B5C7252}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LizkovischesPrincipe", "LizkovischesPrincipe\LizkovischesPrincipe.csproj", "{4C1E74EF-68FE-4034-9D21-EBE519508282}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LizkovischesPrincipe", "LizkovischesPrincipe\LizkovischesPrincipe.csproj", "{4C1E74EF-68FE-4034-9D21-EBE519508282}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceSegerationPrinzip", "InterfaceSegerationPrinzip\InterfaceSegerationPrinzip.csproj", "{006F33C0-254C-479C-B1E4-14EBD06B839F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfaceSegerationPrinzip", "InterfaceSegerationPrinzip\InterfaceSegerationPrinzip.csproj", "{006F33C0-254C-479C-B1E4-14EBD06B839F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DependencyInversionPrincip", "DependencyInversionPrincip", "{95B4432A-7D3A-4B73-9DA7-5E37017EBE4E}"
 EndProject
@@ -19,30 +19,42 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BadSample", "BadSample", "{
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GoodSample", "GoodSample", "{1AB9DFA8-70DD-4FDE-82A9-69393FD70496}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BadApp.Entities", "BadApp.Entities\BadApp.Entities.csproj", "{14A7BEAC-78B6-4E77-876C-D11ED0CD51DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BadApp.Entities", "BadApp.Entities\BadApp.Entities.csproj", "{14A7BEAC-78B6-4E77-876C-D11ED0CD51DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BadApp.Services", "BadApp.Services\BadApp.Services.csproj", "{E73D758B-72D2-4546-9245-A78E325848F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BadApp.Services", "BadApp.Services\BadApp.Services.csproj", "{E73D758B-72D2-4546-9245-A78E325848F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoodApp.Entities.Interfaces", "GoodApp.Entities.Interfaces\GoodApp.Entities.Interfaces.csproj", "{CAA60F7B-A404-4B84-9A69-90F39C244A26}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoodApp.Entities.Interfaces", "GoodApp.Entities.Interfaces\GoodApp.Entities.Interfaces.csproj", "{CAA60F7B-A404-4B84-9A69-90F39C244A26}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoodApp.Services.Interfaces", "GoodApp.Services.Interfaces\GoodApp.Services.Interfaces.csproj", "{2FE4B22F-C036-4957-AA52-E3AAD6DFF772}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoodApp.Services.Interfaces", "GoodApp.Services.Interfaces\GoodApp.Services.Interfaces.csproj", "{2FE4B22F-C036-4957-AA52-E3AAD6DFF772}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ContractFirst", "ContractFirst", "{E815A5B4-65F0-432E-A2BF-3789987743CF}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "KlassenImplementierung", "KlassenImplementierung", "{A027711C-2D4B-4A00-BC9F-17F06C20D4B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoodApp.Entities", "GoodApp.Entities\GoodApp.Entities.csproj", "{E00A6BDC-966E-42C2-8D10-FE34E37E101D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoodApp.Entities", "GoodApp.Entities\GoodApp.Entities.csproj", "{E00A6BDC-966E-42C2-8D10-FE34E37E101D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoodApp.Services", "GoodApp.Services\GoodApp.Services.csproj", "{7307776C-9B8C-4A2F-AC62-961FE3D8896F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoodApp.Services", "GoodApp.Services\GoodApp.Services.csproj", "{7307776C-9B8C-4A2F-AC62-961FE3D8896F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoodApp.MockEntities", "GoodApp.MockEntities\GoodApp.MockEntities.csproj", "{5DDA8BAA-A85C-4782-8D10-CF1CC2F41526}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoodApp.MockEntities", "GoodApp.MockEntities\GoodApp.MockEntities.csproj", "{5DDA8BAA-A85C-4782-8D10-CF1CC2F41526}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyApplication", "MyApplication\MyApplication.csproj", "{A7F1E3B0-4664-4C30-AE6C-0B2548E8EE44}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyApplication", "MyApplication\MyApplication.csproj", "{A7F1E3B0-4664-4C30-AE6C-0B2548E8EE44}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{44FFA979-382C-417A-9C3F-430E9C88478B}"
 	ProjectSection(SolutionItems) = preProject
 		..\Agenda.md = ..\Agenda.md
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLID_LAB1_SOLUTION", "SOLID_LAB1_SOLUTION\SOLID_LAB1_SOLUTION.csproj", "{E7621259-8502-4FCC-A0A2-06BD3218D5EB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Delegates", "Delegates", "{C015F7E0-AF31-4702-9D94-26F3948A7A63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegatesActionsAndFuncsSamples", "DelegatesActionsAndFuncsSamples\DelegatesActionsAndFuncsSamples.csproj", "{1AD06E1E-F29F-49D6-A4AC-26E073B508ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegatesAndActionsAsCallback", "DelegatesAndActionsAsCallback\DelegatesAndActionsAsCallback.csproj", "{A239B7A9-5AA3-40FB-94FB-E5719BA3412C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateWithCallbackPraktischesBeispiel", "DelegateWithCallbackPraktischesBeispiel\DelegateWithCallbackPraktischesBeispiel.csproj", "{26E78274-EEEA-4E0E-ACEC-DA724D63849A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventAndEventHandler", "EventAndEventHandler\EventAndEventHandler.csproj", "{3665F756-1B3B-4092-8B59-EA4D56165400}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -98,6 +110,26 @@ Global
 		{A7F1E3B0-4664-4C30-AE6C-0B2548E8EE44}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A7F1E3B0-4664-4C30-AE6C-0B2548E8EE44}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A7F1E3B0-4664-4C30-AE6C-0B2548E8EE44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7621259-8502-4FCC-A0A2-06BD3218D5EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7621259-8502-4FCC-A0A2-06BD3218D5EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7621259-8502-4FCC-A0A2-06BD3218D5EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7621259-8502-4FCC-A0A2-06BD3218D5EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AD06E1E-F29F-49D6-A4AC-26E073B508ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AD06E1E-F29F-49D6-A4AC-26E073B508ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AD06E1E-F29F-49D6-A4AC-26E073B508ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AD06E1E-F29F-49D6-A4AC-26E073B508ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A239B7A9-5AA3-40FB-94FB-E5719BA3412C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A239B7A9-5AA3-40FB-94FB-E5719BA3412C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A239B7A9-5AA3-40FB-94FB-E5719BA3412C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A239B7A9-5AA3-40FB-94FB-E5719BA3412C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26E78274-EEEA-4E0E-ACEC-DA724D63849A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26E78274-EEEA-4E0E-ACEC-DA724D63849A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26E78274-EEEA-4E0E-ACEC-DA724D63849A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26E78274-EEEA-4E0E-ACEC-DA724D63849A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3665F756-1B3B-4092-8B59-EA4D56165400}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3665F756-1B3B-4092-8B59-EA4D56165400}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3665F756-1B3B-4092-8B59-EA4D56165400}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3665F756-1B3B-4092-8B59-EA4D56165400}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -120,6 +152,11 @@ Global
 		{7307776C-9B8C-4A2F-AC62-961FE3D8896F} = {A027711C-2D4B-4A00-BC9F-17F06C20D4B0}
 		{5DDA8BAA-A85C-4782-8D10-CF1CC2F41526} = {A027711C-2D4B-4A00-BC9F-17F06C20D4B0}
 		{A7F1E3B0-4664-4C30-AE6C-0B2548E8EE44} = {1AB9DFA8-70DD-4FDE-82A9-69393FD70496}
+		{E7621259-8502-4FCC-A0A2-06BD3218D5EB} = {ACEB0F49-A4BE-4126-A534-EBBE762DF683}
+		{1AD06E1E-F29F-49D6-A4AC-26E073B508ED} = {C015F7E0-AF31-4702-9D94-26F3948A7A63}
+		{A239B7A9-5AA3-40FB-94FB-E5719BA3412C} = {C015F7E0-AF31-4702-9D94-26F3948A7A63}
+		{26E78274-EEEA-4E0E-ACEC-DA724D63849A} = {C015F7E0-AF31-4702-9D94-26F3948A7A63}
+		{3665F756-1B3B-4092-8B59-EA4D56165400} = {C015F7E0-AF31-4702-9D94-26F3948A7A63}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1051DB67-3B90-4A52-9F5F-20F9800671AC}
