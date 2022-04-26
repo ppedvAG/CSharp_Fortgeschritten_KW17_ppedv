@@ -6,7 +6,7 @@ Themen
 
 Montag 
 
-- [ ] Solid 
+- [x] Solid 
     - [ ] 2 Labs
 - [ ] Delegates / Actions / Func / Events / EventHandler
     - [ ] Lab

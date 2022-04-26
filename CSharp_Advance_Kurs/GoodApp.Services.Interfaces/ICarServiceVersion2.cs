@@ -1,4 +1,5 @@
-﻿using System;
+﻿using GoodApp.Entities.Interfaces;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,6 +9,6 @@ namespace GoodApp.Services.Interfaces
 {
     public interface ICarServiceVersion2 : ICarService
     {
-        public void LackiereAutoUm(ICarServiceVersion2 car);
+        public void LackiereAutoUm(ICarVersion2 car);
     }
 }
