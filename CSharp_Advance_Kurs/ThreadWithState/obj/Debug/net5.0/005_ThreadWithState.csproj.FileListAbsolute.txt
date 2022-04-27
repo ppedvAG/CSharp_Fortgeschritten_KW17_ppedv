@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\ThreadWithState\bin\Debug\net5.0\005_ThreadWithState.exe
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\ThreadWithState\bin\Debug\net5.0\005_ThreadWithState.deps.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\ThreadWithState\bin\Debug\net5.0\005_ThreadWithState.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\ThreadWithState\bin\Debug\net5.0\005_ThreadWithState.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\ThreadWithState\bin\Debug\net5.0\005_ThreadWithState.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\ThreadWithState\bin\Debug\net5.0\005_ThreadWithState.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\ThreadWithState\obj\Debug\net5.0\005_ThreadWithState.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\ThreadWithState\obj\Debug\net5.0\005_ThreadWithState.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\ThreadWithState\obj\Debug\net5.0\005_ThreadWithState.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\ThreadWithState\obj\Debug\net5.0\005_ThreadWithState.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\ThreadWithState\obj\Debug\net5.0\005_ThreadWithState.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\ThreadWithState\obj\Debug\net5.0\005_ThreadWithState.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\ThreadWithState\obj\Debug\net5.0\refint\005_ThreadWithState.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\ThreadWithState\obj\Debug\net5.0\005_ThreadWithState.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\ThreadWithState\obj\Debug\net5.0\005_ThreadWithState.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\ThreadWithState\obj\Debug\net5.0\ref\005_ThreadWithState.dll

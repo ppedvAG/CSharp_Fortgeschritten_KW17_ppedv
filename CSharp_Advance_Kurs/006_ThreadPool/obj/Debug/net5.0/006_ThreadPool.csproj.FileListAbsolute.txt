@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\006_ThreadPool\bin\Debug\net5.0\006_ThreadPool.exe
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\006_ThreadPool\bin\Debug\net5.0\006_ThreadPool.deps.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\006_ThreadPool\bin\Debug\net5.0\006_ThreadPool.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\006_ThreadPool\bin\Debug\net5.0\006_ThreadPool.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\006_ThreadPool\bin\Debug\net5.0\006_ThreadPool.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\006_ThreadPool\bin\Debug\net5.0\006_ThreadPool.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\006_ThreadPool\obj\Debug\net5.0\006_ThreadPool.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\006_ThreadPool\obj\Debug\net5.0\006_ThreadPool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\006_ThreadPool\obj\Debug\net5.0\006_ThreadPool.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\006_ThreadPool\obj\Debug\net5.0\006_ThreadPool.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\006_ThreadPool\obj\Debug\net5.0\006_ThreadPool.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\006_ThreadPool\obj\Debug\net5.0\006_ThreadPool.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\006_ThreadPool\obj\Debug\net5.0\refint\006_ThreadPool.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\006_ThreadPool\obj\Debug\net5.0\006_ThreadPool.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\006_ThreadPool\obj\Debug\net5.0\006_ThreadPool.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\006_ThreadPool\obj\Debug\net5.0\ref\006_ThreadPool.dll
