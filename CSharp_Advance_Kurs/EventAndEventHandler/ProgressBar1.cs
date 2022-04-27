@@ -4,11 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace EventAndEventHandler
+namespace EventAndEventHandler.Components
 {
 
     public delegate void ChangePercentValueDelegate(int percentValue);
     public delegate void ResultDelegate(string msg);
+
+    //Bei komplexen Controls würde man sehr sehr viele delegates definieren müssen 
 
 
     public class ProgressBar1
@@ -23,7 +25,6 @@ namespace EventAndEventHandler
             {
                 // Nach außen kommunizieren 
                 OnProcessPercentStatus(i);
-                
             }
 
             // Nach außen kommunizieren 

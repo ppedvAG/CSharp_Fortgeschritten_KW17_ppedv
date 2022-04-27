@@ -8,14 +8,14 @@ Montag
 
 - [x] Solid 
     - [ ] 2 Labs
-- [ ] Delegates / Actions / Func / Events / EventHandler
+- [x] Delegates / Actions / Func / Events / EventHandler
     - [ ] Lab
 - [ ] Benchmark StringBuilder vs +-Operator (bei strings)
 
 
 Dienstag
 
-- [ ] Wiederholung Tag 1 (mit Lab)
+- [] Wiederholung Tag 1 (mit Lab)
 - [ ] Threading
     - [ ] LAB
 - [ ] TPL

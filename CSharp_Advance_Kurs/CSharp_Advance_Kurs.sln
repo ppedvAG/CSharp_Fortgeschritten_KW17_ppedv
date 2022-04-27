@@ -44,17 +44,27 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		..\Agenda.md = ..\Agenda.md
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLID_LAB1_SOLUTION", "SOLID_LAB1_SOLUTION\SOLID_LAB1_SOLUTION.csproj", "{E7621259-8502-4FCC-A0A2-06BD3218D5EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SOLID_LAB1_SOLUTION", "SOLID_LAB1_SOLUTION\SOLID_LAB1_SOLUTION.csproj", "{E7621259-8502-4FCC-A0A2-06BD3218D5EB}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Delegates", "Delegates", "{C015F7E0-AF31-4702-9D94-26F3948A7A63}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegatesActionsAndFuncsSamples", "DelegatesActionsAndFuncsSamples\DelegatesActionsAndFuncsSamples.csproj", "{1AD06E1E-F29F-49D6-A4AC-26E073B508ED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DelegatesActionsAndFuncsSamples", "DelegatesActionsAndFuncsSamples\DelegatesActionsAndFuncsSamples.csproj", "{1AD06E1E-F29F-49D6-A4AC-26E073B508ED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegatesAndActionsAsCallback", "DelegatesAndActionsAsCallback\DelegatesAndActionsAsCallback.csproj", "{A239B7A9-5AA3-40FB-94FB-E5719BA3412C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DelegatesAndActionsAsCallback", "DelegatesAndActionsAsCallback\DelegatesAndActionsAsCallback.csproj", "{A239B7A9-5AA3-40FB-94FB-E5719BA3412C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateWithCallbackPraktischesBeispiel", "DelegateWithCallbackPraktischesBeispiel\DelegateWithCallbackPraktischesBeispiel.csproj", "{26E78274-EEEA-4E0E-ACEC-DA724D63849A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DelegateWithCallbackPraktischesBeispiel", "DelegateWithCallbackPraktischesBeispiel\DelegateWithCallbackPraktischesBeispiel.csproj", "{26E78274-EEEA-4E0E-ACEC-DA724D63849A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventAndEventHandler", "EventAndEventHandler\EventAndEventHandler.csproj", "{3665F756-1B3B-4092-8B59-EA4D56165400}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventAndEventHandler", "EventAndEventHandler\EventAndEventHandler.csproj", "{3665F756-1B3B-4092-8B59-EA4D56165400}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsApp1", "WinFormsApp1\WinFormsApp1.csproj", "{3024193D-D178-4907-8C52-29BB4A84107B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Benchmark", "Benchmark", "{459B05BE-B222-496C-9B76-FF3DED5D72A3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringBuilderBenchmarkDemo", "StringBuilderBenchmarkDemo\StringBuilderBenchmarkDemo.csproj", "{D003CBD0-DCA7-4AC9-AC43-D49BC1780F79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsideList", "InsideList\InsideList.csproj", "{97BF70F8-4979-4DC0-AED4-E930D46E036D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Threading", "Threading", "{82C44521-B942-4193-B33E-13B33D96BE75}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -130,6 +140,18 @@ Global
 		{3665F756-1B3B-4092-8B59-EA4D56165400}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3665F756-1B3B-4092-8B59-EA4D56165400}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3665F756-1B3B-4092-8B59-EA4D56165400}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3024193D-D178-4907-8C52-29BB4A84107B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3024193D-D178-4907-8C52-29BB4A84107B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3024193D-D178-4907-8C52-29BB4A84107B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3024193D-D178-4907-8C52-29BB4A84107B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D003CBD0-DCA7-4AC9-AC43-D49BC1780F79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D003CBD0-DCA7-4AC9-AC43-D49BC1780F79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D003CBD0-DCA7-4AC9-AC43-D49BC1780F79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D003CBD0-DCA7-4AC9-AC43-D49BC1780F79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97BF70F8-4979-4DC0-AED4-E930D46E036D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97BF70F8-4979-4DC0-AED4-E930D46E036D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97BF70F8-4979-4DC0-AED4-E930D46E036D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97BF70F8-4979-4DC0-AED4-E930D46E036D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -157,6 +179,9 @@ Global
 		{A239B7A9-5AA3-40FB-94FB-E5719BA3412C} = {C015F7E0-AF31-4702-9D94-26F3948A7A63}
 		{26E78274-EEEA-4E0E-ACEC-DA724D63849A} = {C015F7E0-AF31-4702-9D94-26F3948A7A63}
 		{3665F756-1B3B-4092-8B59-EA4D56165400} = {C015F7E0-AF31-4702-9D94-26F3948A7A63}
+		{3024193D-D178-4907-8C52-29BB4A84107B} = {C015F7E0-AF31-4702-9D94-26F3948A7A63}
+		{D003CBD0-DCA7-4AC9-AC43-D49BC1780F79} = {459B05BE-B222-496C-9B76-FF3DED5D72A3}
+		{97BF70F8-4979-4DC0-AED4-E930D46E036D} = {459B05BE-B222-496C-9B76-FF3DED5D72A3}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1051DB67-3B90-4A52-9F5F-20F9800671AC}
