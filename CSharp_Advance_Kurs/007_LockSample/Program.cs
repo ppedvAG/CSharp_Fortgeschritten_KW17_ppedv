@@ -50,12 +50,12 @@ namespace _007_LockSample
         public static void Einzahlen(decimal betrag)
         {
             //Nur ein Thread darf hinein
-            lock (lockFlag)
+            lock (lockFlag) //Flag wird gestzt
             {
                 TransactionId++;
                 Kontostand += betrag;
                 Console.WriteLine($"{TransactionId} Einzahlen: {betrag} -> Kontostand {Kontostand}");
-            }
+            } //Flag wird freigegeben
         }
 
         public static void Auszahlen(decimal betrag)
