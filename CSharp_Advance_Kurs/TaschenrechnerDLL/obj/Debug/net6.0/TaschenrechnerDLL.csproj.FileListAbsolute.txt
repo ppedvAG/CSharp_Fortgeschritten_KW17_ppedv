@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\TaschenrechnerDLL\bin\Debug\net6.0\TaschenrechnerDLL.deps.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\TaschenrechnerDLL\bin\Debug\net6.0\TaschenrechnerDLL.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\TaschenrechnerDLL\bin\Debug\net6.0\TaschenrechnerDLL.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\TaschenrechnerDLL\obj\Debug\net6.0\TaschenrechnerDLL.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\TaschenrechnerDLL\obj\Debug\net6.0\TaschenrechnerDLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\TaschenrechnerDLL\obj\Debug\net6.0\TaschenrechnerDLL.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\TaschenrechnerDLL\obj\Debug\net6.0\TaschenrechnerDLL.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\TaschenrechnerDLL\obj\Debug\net6.0\TaschenrechnerDLL.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\TaschenrechnerDLL\obj\Debug\net6.0\TaschenrechnerDLL.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\TaschenrechnerDLL\obj\Debug\net6.0\refint\TaschenrechnerDLL.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\TaschenrechnerDLL\obj\Debug\net6.0\TaschenrechnerDLL.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\TaschenrechnerDLL\obj\Debug\net6.0\ref\TaschenrechnerDLL.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\TaschenrechnerApp\bin\Debug\net6.0\TaschenrechnerDLL.deps.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\TaschenrechnerApp\bin\Debug\net6.0\TaschenrechnerDLL.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\TaschenrechnerApp\bin\Debug\net6.0\TaschenrechnerDLL.pdb

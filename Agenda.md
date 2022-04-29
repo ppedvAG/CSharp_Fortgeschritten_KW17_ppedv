@@ -10,31 +10,39 @@ Montag
     - [ ] 2 Labs
 - [x] Delegates / Actions / Func / Events / EventHandler
     - [ ] Lab
-- [ ] Benchmark StringBuilder vs +-Operator (bei strings)
+- [x] Benchmark StringBuilder vs +-Operator (bei strings)
 
 
 Dienstag
 
-- [] Wiederholung Tag 1 (mit Lab)
-- [ ] Threading
-    - [ ] LAB
-- [ ] TPL
-    - [ ] LAB
-- [ ] async / await
-
-- [ ] Genrics
+- [ ] Wiederholung Tag 1 (mit Lab)
+- [x] Threading
+- [x] TPL
+- [x] async / await
+- [x] Genrics
 
 Mittwoch:
 
 - [ ] Wiederholung Tag 2
-- [ ] C# 7.0 -> C# 10.0 Sprach Features
-- [ ] Reflections 
- - [ ] Plugin Pattern (Optional, CodeReview)
-- [ ] Serialisierung
+
+Freitag: 
+- [x] Reflections 
+ - [x] Plugin Pattern (Optional, CodeReview)
+- [x] Serialisierung
+- [x] Erweiterungsmethoden 
+- [x] Operatoren
+- [x Anonyme Typen + dynamische Typen
+Montag:
 - [ ] Linq / Lambda 
-- [ ] Erweiterungsmethoden  
-- [ ] Operatoren
-- [ ] Anonyme Typen + dynamische Typen
+- [ ] C# 7.0 -> C# 10.0 Sprach Features
+- [ ] ? (bei freier Zeit) 
+
+(Vorschläge vom Trainer) 
+- [ ] Was ist OR Mapper? 
+- [ ] ADO.NET
+
+- [ ] Crashkurs OOP 
+
 
 
 

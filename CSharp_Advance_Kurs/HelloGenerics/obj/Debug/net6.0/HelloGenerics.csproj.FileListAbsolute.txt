@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\HelloGenerics\bin\Debug\net6.0\HelloGenerics.exe
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\HelloGenerics\bin\Debug\net6.0\HelloGenerics.deps.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\HelloGenerics\bin\Debug\net6.0\HelloGenerics.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\HelloGenerics\bin\Debug\net6.0\HelloGenerics.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\HelloGenerics\bin\Debug\net6.0\HelloGenerics.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\HelloGenerics\obj\Debug\net6.0\HelloGenerics.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\HelloGenerics\obj\Debug\net6.0\HelloGenerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\HelloGenerics\obj\Debug\net6.0\HelloGenerics.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\HelloGenerics\obj\Debug\net6.0\HelloGenerics.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\HelloGenerics\obj\Debug\net6.0\HelloGenerics.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\HelloGenerics\obj\Debug\net6.0\HelloGenerics.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\HelloGenerics\obj\Debug\net6.0\refint\HelloGenerics.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\HelloGenerics\obj\Debug\net6.0\HelloGenerics.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\HelloGenerics\obj\Debug\net6.0\HelloGenerics.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\HelloGenerics\obj\Debug\net6.0\ref\HelloGenerics.dll

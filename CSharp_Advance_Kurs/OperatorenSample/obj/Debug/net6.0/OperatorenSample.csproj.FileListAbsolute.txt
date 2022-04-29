@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\OperatorenSample\bin\Debug\net6.0\OperatorenSample.exe
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\OperatorenSample\bin\Debug\net6.0\OperatorenSample.deps.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\OperatorenSample\bin\Debug\net6.0\OperatorenSample.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\OperatorenSample\bin\Debug\net6.0\OperatorenSample.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\OperatorenSample\bin\Debug\net6.0\OperatorenSample.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\OperatorenSample\obj\Debug\net6.0\OperatorenSample.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\OperatorenSample\obj\Debug\net6.0\OperatorenSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\OperatorenSample\obj\Debug\net6.0\OperatorenSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\OperatorenSample\obj\Debug\net6.0\OperatorenSample.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\OperatorenSample\obj\Debug\net6.0\OperatorenSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\OperatorenSample\obj\Debug\net6.0\OperatorenSample.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\OperatorenSample\obj\Debug\net6.0\refint\OperatorenSample.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\OperatorenSample\obj\Debug\net6.0\OperatorenSample.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\OperatorenSample\obj\Debug\net6.0\OperatorenSample.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\OperatorenSample\obj\Debug\net6.0\ref\OperatorenSample.dll

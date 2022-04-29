@@ -1,0 +1,17 @@
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\HelloSerialisierung\bin\Debug\net6.0\HelloSerialisierung.exe
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\HelloSerialisierung\bin\Debug\net6.0\HelloSerialisierung.deps.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\HelloSerialisierung\bin\Debug\net6.0\HelloSerialisierung.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\HelloSerialisierung\bin\Debug\net6.0\HelloSerialisierung.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\HelloSerialisierung\bin\Debug\net6.0\HelloSerialisierung.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\HelloSerialisierung\obj\Debug\net6.0\HelloSerialisierung.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\HelloSerialisierung\obj\Debug\net6.0\HelloSerialisierung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\HelloSerialisierung\obj\Debug\net6.0\HelloSerialisierung.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\HelloSerialisierung\obj\Debug\net6.0\HelloSerialisierung.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\HelloSerialisierung\obj\Debug\net6.0\HelloSerialisierung.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\HelloSerialisierung\obj\Debug\net6.0\HelloSerialisierung.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\HelloSerialisierung\obj\Debug\net6.0\refint\HelloSerialisierung.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\HelloSerialisierung\obj\Debug\net6.0\HelloSerialisierung.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\HelloSerialisierung\obj\Debug\net6.0\HelloSerialisierung.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\HelloSerialisierung\obj\Debug\net6.0\ref\HelloSerialisierung.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\HelloSerialisierung\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\HelloSerialisierung\obj\Debug\net6.0\HelloSerialisierung.csproj.CopyComplete
