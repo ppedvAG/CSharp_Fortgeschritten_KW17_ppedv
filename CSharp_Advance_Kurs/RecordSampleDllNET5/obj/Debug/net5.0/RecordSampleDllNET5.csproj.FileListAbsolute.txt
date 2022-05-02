@@ -1,0 +1,12 @@
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\RecordSampleDllNET5\bin\Debug\net5.0\RecordSampleDllNET5.deps.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\RecordSampleDllNET5\bin\Debug\net5.0\RecordSampleDllNET5.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\RecordSampleDllNET5\bin\Debug\net5.0\RecordSampleDllNET5.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\RecordSampleDllNET5\obj\Debug\net5.0\RecordSampleDllNET5.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\RecordSampleDllNET5\obj\Debug\net5.0\RecordSampleDllNET5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\RecordSampleDllNET5\obj\Debug\net5.0\RecordSampleDllNET5.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\RecordSampleDllNET5\obj\Debug\net5.0\RecordSampleDllNET5.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\RecordSampleDllNET5\obj\Debug\net5.0\RecordSampleDllNET5.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\RecordSampleDllNET5\obj\Debug\net5.0\RecordSampleDllNET5.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\RecordSampleDllNET5\obj\Debug\net5.0\refint\RecordSampleDllNET5.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\RecordSampleDllNET5\obj\Debug\net5.0\RecordSampleDllNET5.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\RecordSampleDllNET5\obj\Debug\net5.0\ref\RecordSampleDllNET5.dll

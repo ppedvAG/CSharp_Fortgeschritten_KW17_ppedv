@@ -1,0 +1,12 @@
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\RecordSampleDll\bin\Debug\net6.0\RecordSampleDll.deps.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\RecordSampleDll\bin\Debug\net6.0\RecordSampleDll.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\RecordSampleDll\bin\Debug\net6.0\RecordSampleDll.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\RecordSampleDll\obj\Debug\net6.0\RecordSampleDll.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\RecordSampleDll\obj\Debug\net6.0\RecordSampleDll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\RecordSampleDll\obj\Debug\net6.0\RecordSampleDll.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\RecordSampleDll\obj\Debug\net6.0\RecordSampleDll.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\RecordSampleDll\obj\Debug\net6.0\RecordSampleDll.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\RecordSampleDll\obj\Debug\net6.0\RecordSampleDll.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\RecordSampleDll\obj\Debug\net6.0\refint\RecordSampleDll.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\RecordSampleDll\obj\Debug\net6.0\RecordSampleDll.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\RecordSampleDll\obj\Debug\net6.0\ref\RecordSampleDll.dll

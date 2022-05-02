@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\OutReferenceSample\bin\Debug\net6.0\OutReferenceSample.exe
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\OutReferenceSample\bin\Debug\net6.0\OutReferenceSample.deps.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\OutReferenceSample\bin\Debug\net6.0\OutReferenceSample.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\OutReferenceSample\bin\Debug\net6.0\OutReferenceSample.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\OutReferenceSample\bin\Debug\net6.0\OutReferenceSample.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\OutReferenceSample\obj\Debug\net6.0\OutReferenceSample.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\OutReferenceSample\obj\Debug\net6.0\OutReferenceSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\OutReferenceSample\obj\Debug\net6.0\OutReferenceSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\OutReferenceSample\obj\Debug\net6.0\OutReferenceSample.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\OutReferenceSample\obj\Debug\net6.0\OutReferenceSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\OutReferenceSample\obj\Debug\net6.0\OutReferenceSample.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\OutReferenceSample\obj\Debug\net6.0\refint\OutReferenceSample.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\OutReferenceSample\obj\Debug\net6.0\OutReferenceSample.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\OutReferenceSample\obj\Debug\net6.0\OutReferenceSample.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW17_ppedv\CSharp_Advance_Kurs\OutReferenceSample\obj\Debug\net6.0\ref\OutReferenceSample.dll

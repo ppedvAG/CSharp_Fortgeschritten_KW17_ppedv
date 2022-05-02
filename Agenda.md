@@ -33,8 +33,10 @@ Freitag:
 - [x] Operatoren
 - [x Anonyme Typen + dynamische Typen
 Montag:
-- [ ] Linq / Lambda 
 - [ ] C# 7.0 -> C# 10.0 Sprach Features
+    - [ ] Records -> Beispiele 
+- [ ] Linq / Lambda 
+- [ ] 
 - [ ] ? (bei freier Zeit) 
 
 (Vorschläge vom Trainer) 
